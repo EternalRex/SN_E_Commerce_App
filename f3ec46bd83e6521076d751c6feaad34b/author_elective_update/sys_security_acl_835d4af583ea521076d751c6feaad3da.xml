@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <decision_type>allow</decision_type>
+        <description>Allow create for records in x_1510979_e_store_additional_user_info, for users with role admin.</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1510979_e_store_additional_user_info</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 04:02:47</sys_created_on>
+        <sys_id>835d4af583ea521076d751c6feaad3da</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_1510979_e_store_additional_user_info</sys_name>
+        <sys_package display_value="E-Store" source="x_1510979_e_store">f3ec46bd83e6521076d751c6feaad34b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="E-Store">f3ec46bd83e6521076d751c6feaad34b</sys_scope>
+        <sys_update_name>sys_security_acl_835d4af583ea521076d751c6feaad3da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 05:22:18</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="E-Store">f3ec46bd83e6521076d751c6feaad34b</application>
+        <file_path/>
+        <instance_id>6c9793e21b4eb91039a54089bd4bcb39</instance_id>
+        <instance_name>dev194013</instance_name>
+        <name>sys_security_acl_835d4af583ea521076d751c6feaad3da</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><decision_type>allow</decision_type><description>Allow create for records in x_1510979_e_store_additional_user_info, for users with role admin.</description><local_or_existing>Local</local_or_existing><name>x_1510979_e_store_additional_user_info</name><operation display_value="create">create</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-19 04:02:47</sys_created_on><sys_id>835d4af583ea521076d751c6feaad3da</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_1510979_e_store_additional_user_info</sys_name><sys_package display_value="E-Store" source="x_1510979_e_store">f3ec46bd83e6521076d751c6feaad34b</sys_package><sys_policy/><sys_scope display_value="E-Store">f3ec46bd83e6521076d751c6feaad34b</sys_scope><sys_update_name>sys_security_acl_835d4af583ea521076d751c6feaad3da</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-19 05:22:18</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>906468906</payload_hash>
+        <record_name>x_1510979_e_store_additional_user_info</record_name>
+        <reverted_from/>
+        <source>a47c1e79832e521076d751c6feaad3a1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 05:22:19</sys_created_on>
+        <sys_id>849f5afd832e521076d751c6feaad375</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193dd5de76c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 05:22:19</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>0c9f5afdf82e52101b848c6737e9dc74</update_guid>
+        <update_guid_history>0c9f5afdf82e52101b848c6737e9dc74:906468906,0f5d4af581ea52106b35835c30c86fdd:496440125</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 05:30:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>7b8808a4d72048a5bc97f8518f89f9b9</sys_id>
+        <sys_metadata>835d4af583ea521076d751c6feaad3da</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1510979_e_store_additional_user_info</sys_name>
+        <sys_package display_value="E-Store" source="x_1510979_e_store">f3ec46bd83e6521076d751c6feaad34b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="E-Store">f3ec46bd83e6521076d751c6feaad34b</sys_scope>
+        <sys_scope_delete display_value="">0d7d965b95e4456085450c81bd500400</sys_scope_delete>
+        <sys_update_name>sys_security_acl_835d4af583ea521076d751c6feaad3da</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_835d4af583ea521076d751c6feaad3da">849f5afd832e521076d751c6feaad375</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 05:30:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

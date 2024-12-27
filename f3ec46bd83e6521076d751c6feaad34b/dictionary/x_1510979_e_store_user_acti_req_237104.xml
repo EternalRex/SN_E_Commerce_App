@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5a3172b983ae521076d751c6feaad3dd" extends="user_activation_request" label="E Store User Acti Req 237104" max_length="40" name="x_1510979_e_store_user_acti_req_237104" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=user_type" label="User Type" max_length="40" name="user_type" type="string"/>
+    </element>
+</database>

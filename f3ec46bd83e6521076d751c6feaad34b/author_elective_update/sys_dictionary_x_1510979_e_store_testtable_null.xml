@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="" table="x_1510979_e_store_testtable">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element/>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Collection">collection</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_1510979_e_store_testtable</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 04:02:44</sys_created_on>
+        <sys_name>x_1510979_e_store_testtable</sys_name>
+        <sys_package display_value="E-Store" source="x_1510979_e_store">f3ec46bd83e6521076d751c6feaad34b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="E-Store">f3ec46bd83e6521076d751c6feaad34b</sys_scope>
+        <sys_update_name>sys_dictionary_x_1510979_e_store_testtable_null</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 04:02:44</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="E-Store">f3ec46bd83e6521076d751c6feaad34b</application>
+        <file_path/>
+        <instance_id>6c9793e21b4eb91039a54089bd4bcb39</instance_id>
+        <instance_name>dev194013</instance_name>
+        <name>sys_dictionary_x_1510979_e_store_testtable_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_1510979_e_store_testtable">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element/>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Collection">collection</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_1510979_e_store_testtable</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 04:02:44</sys_created_on>
+        <sys_name>x_1510979_e_store_testtable</sys_name>
+        <sys_package display_value="E-Store" source="x_1510979_e_store">f3ec46bd83e6521076d751c6feaad34b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="E-Store">f3ec46bd83e6521076d751c6feaad34b</sys_scope>
+        <sys_update_name>sys_dictionary_x_1510979_e_store_testtable_null</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 04:02:44</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+</record_update>]]></payload>
+        <payload_hash>-1934623867</payload_hash>
+        <record_name>TestTable</record_name>
+        <reverted_from/>
+        <source>4c7c1e79832e521076d751c6feaad341</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 05:08:42</sys_created_on>
+        <sys_id>347c1e79832e521076d751c6feaad3d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193dd51735d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 05:08:42</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>307c1e797f2e521072a3b3fcea461bd3</update_guid>
+        <update_guid_history>307c1e797f2e521072a3b3fcea461bd3:0,da5dcaf5abea5210c15333a3538bd990:-4239799</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 05:29:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>728664d8beb542488ea682197d685789</sys_id>
+        <sys_metadata>925dcaf583ea521076d751c6feaad330</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1510979_e_store_testtable</sys_name>
+        <sys_package display_value="E-Store" source="x_1510979_e_store">f3ec46bd83e6521076d751c6feaad34b</sys_package>
+        <sys_parent display_value="">9e5dcaf583ea521076d751c6feaad32d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="E-Store">f3ec46bd83e6521076d751c6feaad34b</sys_scope>
+        <sys_scope_delete display_value="">0d7d965b95e4456085450c81bd500400</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1510979_e_store_testtable_NULL</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1510979_e_store_testtable_null">347c1e79832e521076d751c6feaad3d3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 05:29:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

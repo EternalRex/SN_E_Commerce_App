@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c420ea31836e521076d751c6feaad3fc" label="Other User Information" max_length="40" name="x_1510979_e_store_other_user_information" type="collection">
+        <element label="Province" max_length="50" name="province" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="City/Municipality" max_length="50" name="city_municipality" type="string"/>
+        <element label="System User" max_length="32" name="system_user" reference="sys_user" type="reference"/>
+        <element label="Birth Date" max_length="40" name="birth_date" type="glide_date"/>
+        <element label="Region" max_length="50" name="region" type="string"/>
+        <element choice="3" default="single" label="Civil Status" max_length="40" name="civil_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Widowed" sequence="2" value="widowed"/>
+                <element inactive_on_update="false" label="Single" sequence="0" value="single"/>
+                <element inactive_on_update="false" label="Maried" sequence="1" value="maried"/>
+            </choice>
+        </element>
+        <element label="Barangay" max_length="50" name="barangay" type="string"/>
+        <element choice="3" default="catholic" label="Religion" max_length="40" name="religion" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Protestant" sequence="2" value="protestant"/>
+                <element inactive_on_update="false" label="Budhist" sequence="3" value="budhist"/>
+                <element inactive_on_update="false" label="Catholic" sequence="0" value="catholic"/>
+                <element inactive_on_update="false" label="Taoist" sequence="4" value="taoist"/>
+                <element inactive_on_update="false" label="Muslim" sequence="1" value="muslim"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="system_user"/>
+        </index>
+    </element>
+</database>
