@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="823172b983ae521076d751c6feaad39b" extends="sys_user_registration_request" label="E Store User Reg Req 237104" max_length="40" name="x_1510979_e_store_user_reg_req_237104" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=user_type" choice="3" label="User Type" max_length="40" name="user_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Shopper" sequence="100" value="shopper"/>
+                <element inactive_on_update="false" label="Seller" sequence="100" value="seller"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Online Shopping ">8f21ee71836e521076d751c6feaad342</application>
+        <filter/>
+        <name>Other User Informations</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1510979_e_store.other_user_information_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 05:29:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4b21ee71836e521076d751c6feaad346</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Other User Informations</sys_name>
+        <sys_package display_value="E-Store" source="x_1510979_e_store">f3ec46bd83e6521076d751c6feaad34b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="E-Store">f3ec46bd83e6521076d751c6feaad34b</sys_scope>
+        <sys_update_name>sys_ui_module_4b21ee71836e521076d751c6feaad346</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 05:29:21</sys_updated_on>
+        <table>x_1510979_e_store_other_user_information</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

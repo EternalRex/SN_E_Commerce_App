@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu">
+    <sp_instance_menu action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">d11923cf83eed61076d751c6feaad3be</sp_column>
+        <sp_widget display_value="Header Menu">5ef595c1cb12020000f8d856634c9c6e</sp_widget>
+        <sys_class_name>sp_instance_menu</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-23 07:56:36</sys_created_on>
+        <sys_id>8f392f0383221a1076d751c6feaad3fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="E-Store" source="x_1510979_e_store">f3ec46bd83e6521076d751c6feaad34b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="E-Store">f3ec46bd83e6521076d751c6feaad34b</sys_scope>
+        <sys_update_name>sp_instance_menu_8f392f0383221a1076d751c6feaad3fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-23 07:56:36</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_menu>
+    <sys_translated_text action="DELETE" query="documentkey=8f392f0383221a1076d751c6feaad3fa"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="E-Store">f3ec46bd83e6521076d751c6feaad34b</application>
+        <file_path/>
+        <instance_id>6c9793e21b4eb91039a54089bd4bcb39</instance_id>
+        <instance_name>dev194013</instance_name>
+        <name>sp_instance_menu_8f392f0383221a1076d751c6feaad3fa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu"><sp_instance_menu action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">d11923cf83eed61076d751c6feaad3be</sp_column><sp_widget display_value="Header Menu">5ef595c1cb12020000f8d856634c9c6e</sp_widget><sys_class_name>sp_instance_menu</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-23 07:56:36</sys_created_on><sys_id>8f392f0383221a1076d751c6feaad3fa</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="E-Store" source="x_1510979_e_store">f3ec46bd83e6521076d751c6feaad34b</sys_package><sys_policy/><sys_scope display_value="E-Store">f3ec46bd83e6521076d751c6feaad34b</sys_scope><sys_update_name>sp_instance_menu_8f392f0383221a1076d751c6feaad3fa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-23 07:56:36</sys_updated_on><title/><url/><widget_parameters/></sp_instance_menu><sys_translated_text action="delete_multiple" query="documentkey=8f392f0383221a1076d751c6feaad3fa"/></record_update>]]></payload>
+        <payload_hash>-866613214</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>a47c1e79832e521076d751c6feaad3a1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-23 07:56:36</sys_created_on>
+        <sys_id>4b392f0383221a1076d751c6feaad3fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193f28497e60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-23 07:56:36</sys_updated_on>
+        <type>Instance with Menu</type>
+        <update_guid>4f392f030c221a10f3fb8d9588d749fc</update_guid>
+        <update_guid_history>4f392f030c221a10f3fb8d9588d749fc:-866613214</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">3f396b0383221a1076d751c6feaad3c9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-23 07:56:39</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_menu">sp_instance_menu</sys_db_object>
+        <sys_id>1713ff7c519644a78d995c4382801691</sys_id>
+        <sys_metadata>8f392f0383221a1076d751c6feaad3fa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="E-Store" source="x_1510979_e_store">f3ec46bd83e6521076d751c6feaad34b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="E-Store">f3ec46bd83e6521076d751c6feaad34b</sys_scope>
+        <sys_scope_delete display_value="">0d7d965b95e4456085450c81bd500400</sys_scope_delete>
+        <sys_update_name>sp_instance_menu_8f392f0383221a1076d751c6feaad3fa</sys_update_name>
+        <sys_update_version display_value="sp_instance_menu_8f392f0383221a1076d751c6feaad3fa">4b392f0383221a1076d751c6feaad3fd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-23 07:56:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

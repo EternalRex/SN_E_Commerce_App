@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>2</order>
+        <semantic_tag/>
+        <size>6</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">459b674783221a1076d751c6feaad335</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-23 08:06:50</sys_created_on>
+        <sys_id>c99b674783221a1076d751c6feaad3b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="E-Store" source="x_1510979_e_store">f3ec46bd83e6521076d751c6feaad34b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="E-Store">f3ec46bd83e6521076d751c6feaad34b</sys_scope>
+        <sys_update_name>sp_column_c99b674783221a1076d751c6feaad3b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-23 08:06:50</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="E-Store">f3ec46bd83e6521076d751c6feaad34b</application>
+        <file_path/>
+        <instance_id>6c9793e21b4eb91039a54089bd4bcb39</instance_id>
+        <instance_name>dev194013</instance_name>
+        <name>sp_column_c99b674783221a1076d751c6feaad3b6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>2</order><semantic_tag/><size>6</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">459b674783221a1076d751c6feaad335</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-23 08:06:50</sys_created_on><sys_id>c99b674783221a1076d751c6feaad3b6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2</sys_name><sys_package display_value="E-Store" source="x_1510979_e_store">f3ec46bd83e6521076d751c6feaad34b</sys_package><sys_policy/><sys_scope display_value="E-Store">f3ec46bd83e6521076d751c6feaad34b</sys_scope><sys_update_name>sp_column_c99b674783221a1076d751c6feaad3b6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-23 08:06:50</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-944015940</payload_hash>
+        <record_name>2</record_name>
+        <reverted_from/>
+        <source>a47c1e79832e521076d751c6feaad3a1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-23 08:06:50</sys_created_on>
+        <sys_id>c99b674783221a1076d751c6feaad3b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193f28df65b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-23 08:06:50</sys_updated_on>
+        <type>Column</type>
+        <update_guid>cd9b67478e221a10af8c20c4a6987fb7</update_guid>
+        <update_guid_history>cd9b67478e221a10af8c20c4a6987fb7:-944015940</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="2">9aaba74783221a1076d751c6feaad38a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-23 08:07:11</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>e1cadbd8ce8a42cc85aebdd53a971844</sys_id>
+        <sys_metadata>c99b674783221a1076d751c6feaad3b6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="E-Store" source="x_1510979_e_store">f3ec46bd83e6521076d751c6feaad34b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="E-Store">f3ec46bd83e6521076d751c6feaad34b</sys_scope>
+        <sys_scope_delete display_value="">0d7d965b95e4456085450c81bd500400</sys_scope_delete>
+        <sys_update_name>sp_column_c99b674783221a1076d751c6feaad3b6</sys_update_name>
+        <sys_update_version display_value="sp_column_c99b674783221a1076d751c6feaad3b6">c99b674783221a1076d751c6feaad3b8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-23 08:07:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
